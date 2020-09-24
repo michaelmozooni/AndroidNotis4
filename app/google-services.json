@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780273956175",
+    "firebase_url": "https://androidnotis3.firebaseio.com",
+    "project_id": "androidnotis3",
+    "storage_bucket": "androidnotis3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780273956175:android:a35cdf7391cfe1cd82013a",
+        "android_client_info": {
+          "package_name": "com.example.androidnotis3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780273956175-dta9rqm5u41sops0opbc8ca1iv6q0f5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidnotis3",
+            "certificate_hash": "8a1e99a65df685be2ca69a4b82ea30a88e9c408c"
+          }
+        },
+        {
+          "client_id": "780273956175-q9mm73metfjftgbsvv57a8dut6k28m3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtDWv4gXKAId_s2U4VZIT2v50xNfLwj9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780273956175-q9mm73metfjftgbsvv57a8dut6k28m3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
