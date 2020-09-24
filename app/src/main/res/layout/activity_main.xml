@@ -9,10 +9,33 @@
 
     <Button
         android:id="@+id/buttonNotify"
-        android:text="Show Notification"
+        android:text="Start threading"
         android:textAllCaps="false"
         android:layout_centerInParent="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flip the switch"/>
+    
+        <Switch
+            android:id="@+id/flipSwitch"
+            android:layout_width="40dp"
+            android:layout_height="40dp"/>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Default text"/>
+
+    </LinearLayout>
 
 </RelativeLayout>
